@@ -1,2 +1,2 @@
-# Projeto-1Periodo
-Sudoku
+# Projeto_Sudoku
+Jogo Sudoku feito em python
